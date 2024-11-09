@@ -4,7 +4,6 @@
 #include <iostream>
 using std::cout;
 using std::endl;
-#pragma warning(disable:6387)
 
 int main(int argc, char * argv[])
 {
